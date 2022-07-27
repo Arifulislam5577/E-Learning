@@ -1,0 +1,17 @@
+{
+  "name": "e-learning",
+  "version": "1.0.0",
+  "description": "assignment-03",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Md Ariful Islam",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.6.2",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.6"
+  }
+}
