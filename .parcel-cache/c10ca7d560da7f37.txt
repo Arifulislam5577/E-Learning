@@ -1,4 +1,4 @@
-5718
+5725
 56D:\MERN STACK\pHero6\Assignment\assingment-04\src\images133034196290058860 1
 92D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\weak-lru-cache\tests\benchmark.js133034189821185730 0
 81D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\reusify\.coveralls.yml133034190033262098 0
@@ -24,7 +24,7 @@
 83D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\abortcontroller-polyfill133034189833672336 1
 69D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\source-map133034189834669657 1
 90D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\workers\src\cpuCount.js133034189832964221 0
-50D:\MERN STACK\pHero6\Assignment\assingment-04\dist133034594533870290 1
+50D:\MERN STACK\pHero6\Assignment\assingment-04\dist133034631536861005 1
 76D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\readdirp\index.js133034190033312001 0
 85D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\css-tree\lib\syntax\config133034189851335091 1
 76D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@msgpackr-extract133034547847723264 1
@@ -64,7 +64,7 @@
 82D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\postcss\lib\fromJSON.js133034190036124450 0
 86D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\source-map-js\source-map.js133034190036682956 0
 104D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@swc\helpers\lib\_async_generator_delegate.js133034189828605900 0
-56D:\MERN STACK\pHero6\Assignment\assingment-04\index.html133034594694907007 0
+56D:\MERN STACK\pHero6\Assignment\assingment-04\index.html133034631534218076 0
 90D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\regions\MO.js133034189859204069 0
 84D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\resolve\test\mock_sync.js133034190040014046 0
 97D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@swc\helpers\src\_set_prototype_of.mjs133034189852242670 0
@@ -101,7 +101,7 @@
 96D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\features\imports.js133034189857398871 0
 97D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\features\lazyload.js133034189858406181 0
 63D:\MERN STACK\pHero6\Assignment\assingment-04\src\images\course133034551248235880 1
-64D:\MERN STACK\pHero6\Assignment\assingment-04\tailwind.config.js133034557259228023 0
+64D:\MERN STACK\pHero6\Assignment\assingment-04\tailwind.config.js133034624270808486 0
 114D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\020-usage.md133034189844254039 0
 83D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\terser\dist\package.json133034189844483432 0
 81D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\term-size\vendor\macos133034189823639169 1
@@ -114,7 +114,7 @@
 52D:\MERN STACK\pHero6\Assignment\assingment-04\src\js133034193755449455 1
 102D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\fast-glob\out\providers\matchers\partial.js133034190037341199 0
 56D:\MERN STACK\pHero6\Assignment\assingment-04\src\styles133034195078942426 1
-72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\course-1.25fd21f2.png133034527020743380 0
+72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\course-1.25fd21f2.png133034624422574840 0
 94D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\core\test\fixtures\main-mjs133034189853439464 1
 109D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\resolve\test\resolver\multirepo\packages\package-a133034190040811927 1
 94D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\features\webgl.js133034189863073688 0
@@ -129,7 +129,7 @@
 87D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\workers\src\index.js133034189835228169 0
 72D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\node-releases133034189826272123 1
 90D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\source-map-js\lib\base64-vlq.js133034190034129781 0
-67D:\MERN STACK\pHero6\Assignment\assingment-04\src\styles\styles.css133034562772181605 0
+67D:\MERN STACK\pHero6\Assignment\assingment-04\src\styles\styles.css133034610851438147 0
 74D:\MERN STACK\pHero6\Assignment\assingment-04\src\images\cover\cover-1.png133032346220000000 0
 103D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\lmdb\dependencies\v8\v8-fast-api-calls-v16.h133034189850238022 0
 66D:\MERN STACK\pHero6\Assignment\assingment-04\src\images\comma.png133032346220000000 0
@@ -487,7 +487,7 @@
 106D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\fast-glob\out\providers\transformers\entry.d.ts133034190038807285 0
 113D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c133034189844712795 0
 73D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\nanoid\LICENSE133034190032823479 0
-71D:\MERN STACK\pHero6\Assignment\assingment-04\dist\cover-1.96d27c09.png133034527021652324 0
+71D:\MERN STACK\pHero6\Assignment\assingment-04\dist\cover-1.96d27c09.png133034624427561510 0
 73D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\fs\src133034189832525409 1
 70D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\detect-libc133034189826122522 1
 91D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@mischnic\json-sourcemap\LICENSE133034189819470299 0
@@ -1128,7 +1128,7 @@
 91D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\core\src\public\Asset.js133034189836036012 0
 95D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\features\run-in.js133034189860919458 0
 74D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\xxhash-wasm\esm133034189826810685 1
-69D:\MERN STACK\pHero6\Assignment\assingment-04\dist\index.3b8f328d.css133034577892541521 0
+69D:\MERN STACK\pHero6\Assignment\assingment-04\dist\index.3b8f328d.css133034630487934049 0
 99D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\tailwindcss\lib\lib\setupContextUtils.js133034190041849142 0
 81D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\xxhash-wasm\LICENSE.md133034189830530730 0
 80D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\xxhash-wasm\README.md133034189831408376 0
@@ -2195,7 +2195,7 @@
 89D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\resolve\test\resolver\dot_main133034190040692235 1
 93D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\cosmiconfig\dist\cacheWrapper.d.ts133034189840214828 0
 93D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\features\json.js133034189858067087 0
-71D:\MERN STACK\pHero6\Assignment\assingment-04\dist\cover-3.22d8cce6.jpg133034527021652324 0
+71D:\MERN STACK\pHero6\Assignment\assingment-04\dist\cover-3.22d8cce6.jpg133034624427561510 0
 95D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\resolve\test\resolver\dot_slash_main133034190040722357 1
 111D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc.c133034189844523316 0
 95D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\resolve\test\resolver\incorrect_main133034190040752079 1
@@ -2595,7 +2595,7 @@
 72D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\pify\index.js133034190033262098 0
 71D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\pify\license133034190033820881 0
 76D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\pify\package.json133034190032743480 0
-72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\course-4.25d53f5c.png133034527020713456 0
+72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\course-4.25d53f5c.png133034624422574840 0
 83D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\fastq\test\tsconfig.json133034190036004763 0
 73D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\pify\readme.md133034190034448934 0
 104D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\features\insert-adjacent.js133034189857737972 0
@@ -2880,6 +2880,7 @@
 73D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\merge2\LICENSE133034190032753491 0
 78D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\merge2\package.json133034190033830588 0
 71D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\mdn-data\css133034189839018038 1
+73D:\MERN STACK\pHero6\Assignment\assingment-04\dist\company-6.9cdeb726.png133034624422584814 0
 80D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\mdn-data\api\index.js133034189820846637 0
 96D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@popperjs\core\dist\esm\utils\math.js133034513366854788 0
 72D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\mdn-data\l10n133034189829373829 1
@@ -2981,6 +2982,7 @@
 92D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133034189849948798 0
 94D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\lmdb\dependencies\lz4\lib\README.md133034189851624324 0
 98D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\features\proximity.js133034189860500582 0
+73D:\MERN STACK\pHero6\Assignment\assingment-04\dist\company-4.ab30cc34.png133034624422584814 0
 112D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\index.js133034189818941748 0
 93D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\lmdb\dependencies\lz4\lib\xxhash.c133034189847315840 0
 106D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133034189851584421 0
@@ -3088,7 +3090,7 @@
 67D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\has\test133034190035246797 1
 84D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\markdown-ansi\lib133034189820567380 1
 79D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\is-extglob\README.md133034190033262098 0
-71D:\MERN STACK\pHero6\Assignment\assingment-04\dist\cover-2.a15dbdfd.jpg133034527021054011 0
+71D:\MERN STACK\pHero6\Assignment\assingment-04\dist\cover-2.a15dbdfd.jpg133034624422604770 0
 83D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\is-core-module\core.json133034190035595864 0
 78D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\css-tree\lib\common133034189850786555 1
 93D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\logger\test\Logger.test.js133034189824596604 0
@@ -3373,7 +3375,7 @@
 102D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\features\css-variables.js133034189854087733 0
 86D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\domutils\lib\feeds.d.ts.map133034189832176335 0
 88D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\detective\test\rest-spread.js133034190037999445 0
-72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\course-5.17689a9c.png133034527021022639 0
+72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\course-5.17689a9c.png133034624422624711 0
 104D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133034189821095962 0
 80D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\domutils\lib\feeds.js133034189820946362 0
 90D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\core\lib\BundleGraph.js133034189841680909 0
@@ -4119,7 +4121,7 @@
 106D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\features\createimagebitmap.js133034189850617009 0
 110D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\features\credential-management.js133034189850676851 0
 109D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\features\css-at-counter-style.js133034189850956099 0
-72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\course-6.9746bee0.png133034527020922897 0
+72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\course-6.9746bee0.png133034624422594797 0
 111D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\features\css-boxdecorationbreak.js133034189851215407 0
 104D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@swc\helpers\lib\_class_private_method_get.js133034189838968174 0
 102D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\caniuse-lite\data\features\css-boxshadow.js133034189851255312 0
@@ -4693,6 +4695,7 @@
 84D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\markdown-ansi\src133034189822153155 1
 108D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@popperjs\core\lib\dom-utils\getClippingRect.d.ts133034513358822712 0
 106D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@popperjs\core\lib\dom-utils\getClippingRect.js133034513358852626 0
+71D:\MERN STACK\pHero6\Assignment\assingment-04\dist\working.403b2357.png133034624430224380 0
 111D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@popperjs\core\lib\dom-utils\getClippingRect.js.flow133034513358866740 0
 107D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@popperjs\core\lib\dom-utils\getCompositeRect.js133034513358952463 0
 108D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@popperjs\core\lib\dom-utils\getDocumentRect.d.ts133034513359278522 0
@@ -5215,6 +5218,7 @@
 110D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\optimizer-htmlnano\src\HTMLNanoOptimizer.js133034189822641829 0
 110D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\optimizer-htmlnano\lib\HTMLNanoOptimizer.js133034189821105932 0
 84D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\optimizer-css\lib133034189820697035 1
+73D:\MERN STACK\pHero6\Assignment\assingment-04\dist\company-5.768ea8bd.png133034624422584814 0
 88D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\optimizer-css\LICENSE133034189819510200 0
 93D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\optimizer-css\package.json133034189824227594 0
 84D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\optimizer-css\src133034189822252867 1
@@ -5378,7 +5382,7 @@
 91D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\core\test\Parcel.test.js133034189849490031 0
 104D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\core\test\ParcelConfigRequest.test.js133034189850188155 0
 96D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\core\test\PublicAsset.test.js133034189850577127 0
-72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\course-2.dc2f4475.png133034527020753355 0
+72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\course-2.dc2f4475.png133034624422574840 0
 97D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\core\test\PublicBundle.test.js133034189850636979 0
 109D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js133034189850746659 0
 95D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\@parcel\core\test\serializer.test.js133034189851365001 0
@@ -5710,10 +5714,13 @@
 79D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\.bin\tailwindcss.cmd133034190042706865 0
 70D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\.bin\terser133034189864190705 0
 74D:\MERN STACK\pHero6\Assignment\assingment-04\node_modules\.bin\terser.ps1133034189864180733 0
-72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\course-3.ce08612e.png133034527020703485 0
-73D:\MERN STACK\pHero6\Assignment\assingment-04\dist\index.3b8f328d.css.map133034577893897879 0
-68D:\MERN STACK\pHero6\Assignment\assingment-04\dist\index.59a40e7a.js133034548082001047 0
-72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\index.59a40e7a.js.map133034548082160636 0
-61D:\MERN STACK\pHero6\Assignment\assingment-04\dist\index.html133034594533850346 0
+73D:\MERN STACK\pHero6\Assignment\assingment-04\dist\company-1.d991de75.png133034624422584814 0
+73D:\MERN STACK\pHero6\Assignment\assingment-04\dist\company-2.4d3610c2.png133034624424340141 0
+73D:\MERN STACK\pHero6\Assignment\assingment-04\dist\company-3.05ea8bc2.png133034624422594797 0
+72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\course-3.ce08612e.png133034624422584814 0
+73D:\MERN STACK\pHero6\Assignment\assingment-04\dist\index.3b8f328d.css.map133034630488003805 0
+68D:\MERN STACK\pHero6\Assignment\assingment-04\dist\index.59a40e7a.js133034624422564862 0
+72D:\MERN STACK\pHero6\Assignment\assingment-04\dist\index.59a40e7a.js.map133034624427571482 0
+61D:\MERN STACK\pHero6\Assignment\assingment-04\dist\index.html133034631536841049 0
 66D:\MERN STACK\pHero6\Assignment\assingment-04\dist\js.a4524ef8.png133034520429026494 0
 68D:\MERN STACK\pHero6\Assignment\assingment-04\dist\uiux.e81c5171.png133034520429036446 0
