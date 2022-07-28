@@ -18,27 +18,27 @@
           <div class="lg:block hidden">
             <ul class="flex items-center justify-between gap-5">
               <li>
-                <a class="capitalize text-xl text-darkOne duration-300 hover:text-primary" href="#">Home</a>
+                <a class="capitalize text-base text-darkOne duration-300 hover:text-primary" href="#">Home</a>
               </li>
               <li>
-                <a class="capitalize text-xl text-darkOne duration-300 hover:text-primary" href="#courses">Courses</a>
+                <a class="capitalize text-base text-darkOne duration-300 hover:text-primary" href="#courses">Courses</a>
               </li>
               <li>
-                <a class="capitalize text-xl text-darkOne duration-300 hover:text-primary" href="#deals">Deals</a>
+                <a class="capitalize text-base text-darkOne duration-300 hover:text-primary" href="#deals">Deals</a>
               </li>
               <li>
-                <a class="capitalize text-xl text-darkOne duration-300 hover:text-primary" href="#success">Success</a>
+                <a class="capitalize text-base text-darkOne duration-300 hover:text-primary" href="#success">Success</a>
               </li>
               <li>
-                <a class="capitalize text-xl text-darkOne duration-300 hover:text-primary" href="#about">about</a>
+                <a class="capitalize text-base text-darkOne duration-300 hover:text-primary" href="#about">about</a>
               </li>
               <li>
-                <a class="capitalize text-xl text-darkOne duration-300 hover:text-primary" href="#register">register</a>
+                <a class="capitalize text-base text-darkOne duration-300 hover:text-primary" href="#register">register</a>
               </li>
             </ul>
           </div>
           <div class="flex items-center justify-between gap-5">
-            <button class="border-2 py-2 px-6 border-blue-500 capitalize font-bold text-primary rounded duration-300 hover:-translate-y-1 hidden sm:block">
+            <button class="border-2 py-2 px-6 border-blue-500 capitalize font-bold text-primary rounded duration-300 hover:-translate-y-1 hidden sm:block" type="button" data-modal-toggle="authentication-modal">
               register
             </button>
             <button class="lg:hidden block duration-300 hover:-translate-y-1 text-2xl">
@@ -141,7 +141,7 @@
       </section>
       <!-- Slider Area End -->
       <!-- Courses Area Start -->
-      <section class="py-5 lg:py-10">
+      <section class="py-5 lg:py-10" id="courses">
         <div class="container">
           <div class="w-full lg:w-2/3 mx-auto text-center">
             <h1 class="font-bold text-4xl lg:w-2/3 w-full text-center mx-auto">
@@ -254,7 +254,7 @@
       <!-- About Us End-->
 
       <!-- Call to action Start-->
-      <section class="py-5 lg:py-10">
+      <section class="py-5 lg:py-10" id="deals">
         <div class="container">
           <div class="lg:flex items-center lg:text-left text-center justify-between bg-primary p-10">
             <div class="lg:w-1/2 w-full">
@@ -319,7 +319,207 @@
         </div>
       </section>
       <!-- Call to action Ends-->
+      <!-- FAQ area start -->
+      <section class="py-5 lg:py-10" id="register">
+        <div class="container">
+          <div class="w-full lg:w-2/3 mx-auto text-center">
+            <h1 class="font-bold text-4xl lg:w-2/3 w-full text-center mx-auto">
+              Frequently Asked Questions
+            </h1>
+            <p class="text-base text-darkThree mt-3 lg:w-3/4 w-full mx-auto">
+              It is a long established fact that a reader will be distracted by
+              the readable content of a page when looking at its layout.
+            </p>
+          </div>
+        </div>
+        <div class="container my-10 md:w-2/3 w-full">
+          <div id="accordion-flush" data-accordion="collapse" data-active-classes="bg-white dark:bg-gray-900 text-gray-900 dark:text-white" data-inactive-classes="text-gray-500 dark:text-gray-400">
+            <h2 id="accordion-flush-heading-1">
+              <button type="button" class="flex items-center justify-between w-full py-5 font-medium text-left border-b border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900 text-gray-900 dark:text-white" data-accordion-target="#accordion-flush-body-1" aria-expanded="true" aria-controls="accordion-flush-body-1">
+                <span>What is the difference between flexbox and css grid?</span>
+                <svg data-accordion-icon="" class="w-6 h-6 rotate-180 shrink-0" fill="currentColor" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                </svg>
+              </button>
+            </h2>
+            <div id="accordion-flush-body-1" class="" aria-labelledby="accordion-flush-heading-1">
+              <div class="py-5 font-light border-b border-gray-200 dark:border-gray-700">
+                <p class="mb-2 text-gray-500 dark:text-gray-400">
+                  <span class="text-primary uppercase mr-2 font-bold">
+                    grid</span>CSS Grid Layout, is a two-dimensional grid-based layout
+                  system with rows and columns, making it easier to design web
+                  pages without having to use floats and positioning. Like
+                  tables, grid layout allow us to align elements into columns
+                  and rows.
+                </p>
+                <p class="text-gray-500 dark:text-gray-400">
+                  <span class="text-primary uppercase mr-2 font-bold">flexbox</span>The CSS Flexbox offers a one-dimensional layout. It is
+                  helpful in allocating and aligning the space among items in a
+                  container (made of grids). It works with all kinds of display
+                  devices and screen sizes.
+                </p>
+              </div>
+            </div>
+            <h2 id="accordion-flush-heading-2">
+              <button type="button" class="flex items-center justify-between w-full py-5 font-medium text-left text-gray-500 border-b border-gray-200 dark:border-gray-700 dark:text-gray-400" data-accordion-target="#accordion-flush-body-2" aria-expanded="false" aria-controls="accordion-flush-body-2">
+                <span>What is the difference between tailwind and bootstrap?</span>
+                <svg data-accordion-icon="" class="w-6 h-6 shrink-0" fill="currentColor" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                </svg>
+              </button>
+            </h2>
+            <div id="accordion-flush-body-2" class="hidden" aria-labelledby="accordion-flush-heading-2">
+              <div class="py-5 font-light border-b border-gray-200 dark:border-gray-700">
+                <h2 class="my-3 font-bold text-primary text-xl uppercase">
+                  TailwindCSS
+                </h2>
+
+                <ul class="list-disc pl-5">
+                  <li class="mb-2 text-gray-500 dark:text-gray-400">
+                    Tailwind offers predesigned widgets to build a site from
+                    scratch with fast UI development.
+                  </li>
+                  <li class="mb-2 text-gray-500 dark:text-gray-400">
+                    Tailwind CSS uses a set of utility classes to create a neat
+                    UI with more flexibility and uniqueness.
+                  </li>
+                  <li class="mb-2 text-gray-500 dark:text-gray-400">
+                    Websites created using Tailwind CSS are much more
+                    customizable.
+                  </li>
+                </ul>
+
+                <h2 class="my-3 font-bold text-primary text-xl uppercase">
+                  Bootstrap
+                </h2>
+                <ul class="list-disc pl-5">
+                  <li class="mb-2 text-gray-500 dark:text-gray-400">
+                    Bootstrap comes with a set of pre-styled responsive,
+                    mobile-first components that possess a definite UI kit.
+                  </li>
+                  <li class="mb-2 text-gray-500 dark:text-gray-400">
+                    Sites created using Bootstrap follow the generic pattern
+                    that makes them look identical.
+                  </li>
+                  <li class="mb-2 text-gray-500 dark:text-gray-400">
+                    Websites created with Bootstraps are known for their
+                    responsiveness and flawless design, but the looks are
+                    generic and similar.
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <h2 id="accordion-flush-heading-3">
+              <button type="button" class="flex items-center justify-between w-full py-5 font-medium text-left text-gray-500 border-b border-gray-200 dark:border-gray-700 dark:text-gray-400" data-accordion-target="#accordion-flush-body-3" aria-expanded="false" aria-controls="accordion-flush-body-3">
+                <span>What is css box modal?</span>
+                <svg data-accordion-icon="" class="w-6 h-6 shrink-0" fill="currentColor" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                </svg>
+              </button>
+            </h2>
+            <div id="accordion-flush-body-3" class="hidden" aria-labelledby="accordion-flush-heading-3">
+              <div class="py-5 font-light border-b border-gray-200 dark:border-gray-700">
+                <p class="mb-2 text-gray-500 dark:text-gray-400">
+                  CSS box model is a container that contains multiple properties
+                  including borders, margin, padding, and the content itself. It
+                  is used to create the design and layout of web pages. It can
+                  be used as a toolkit for customizing the layout of different
+                  elements. The web browser renders every element as a
+                  rectangular box according to the CSS box model. Box-Model has
+                  multiple properties in CSS.
+                </p>
+              </div>
+            </div>
+
+            <h2 id="accordion-flush-heading-4">
+              <button type="button" class="flex items-center justify-between w-full py-5 font-medium text-left text-gray-500 border-b border-gray-200 dark:border-gray-700 dark:text-gray-400" data-accordion-target="#accordion-flush-body-4" aria-expanded="false" aria-controls="accordion-flush-body-4">
+                <span>What is semantic element?</span>
+                <svg data-accordion-icon="" class="w-6 h-6 shrink-0" fill="currentColor" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                </svg>
+              </button>
+            </h2>
+            <div id="accordion-flush-body-4" class="hidden" aria-labelledby="accordion-flush-heading-4">
+              <div class="py-5 font-light border-b border-gray-200 dark:border-gray-700">
+                <p class="mb-2 text-gray-500 dark:text-gray-400">
+                  Semantic elements have meaningful names which tells about type
+                  of content. For example header, footer, table, … etc. HTML5
+                  introduces many semantic elements as mentioned below which
+                  make the code easier to write and understand for the developer
+                  as well as instructs the browser on how to treat them.
+                </p>
+              </div>
+            </div>
+
+            <h2 id="accordion-flush-heading-5">
+              <button type="button" class="flex items-center justify-between w-full py-5 font-medium text-left text-gray-500 border-b border-gray-200 dark:border-gray-700 dark:text-gray-400" data-accordion-target="#accordion-flush-body-5" aria-expanded="false" aria-controls="accordion-flush-body-5">
+                <span>What is Javascript?</span>
+                <svg data-accordion-icon="" class="w-6 h-6 shrink-0" fill="currentColor" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                </svg>
+              </button>
+            </h2>
+            <div id="accordion-flush-body-5" class="hidden" aria-labelledby="accordion-flush-heading-5">
+              <div class="py-5 font-light border-b border-gray-200 dark:border-gray-700">
+                <p class="mb-2 text-gray-500 dark:text-gray-400">
+                  JavaScript is a scripting or programming language that allows
+                  you to implement complex features on web pages — every time a
+                  web page does more than just sit there and display static
+                  information for you to look at — displaying timely content
+                  updates, interactive maps, animated 2D/3D graphics, scrolling
+                  video jukeboxes, etc.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- FAQ area end -->
+
+      <!-- Sponsor Ares start -->
+      <section class="py-5 lg:py-10 lg:block hidden">
+        <div class="container text-center">
+          <h1 class="text-4xl font-bold text-darkOne mb-4 text-center">
+            Trusted by over 800+ companies
+          </h1>
+          <div class="flex items-center justify-between gap-2 mt-10">
+            <img class="w-full h-5 object-contain" src="/company-1.d991de75.png" alt="company">
+            <img class="w-full h-5 object-contain" src="/company-2.4d3610c2.png" alt="company">
+            <img class="w-full h-5 object-contain" src="/company-3.05ea8bc2.png" alt="company">
+            <img class="w-full h-5 object-contain" src="/company-4.ab30cc34.png" alt="company">
+            <img class="w-full h-5 object-contain" src="/company-5.768ea8bd.png" alt="company">
+            <img class="w-full h-5 object-contain" src="/company-6.9cdeb726.png" alt="company">
+          </div>
+        </div>
+      </section>
+      <!-- Sponsor Ares End -->
     </main>
+
+    <footer class="bg-darkOne py-5 lg:py-10">
+      <div class="container">
+        <div class="flex items-center justify-center flex-col gap-3">
+          <h2 class="text-2xl font-bold text-white/100">E-Learning</h2>
+          <p class="text-white/100 text-sm">
+            Office 41, Zawaya Buildin, Ghala Muscat, Sultanate of Oman
+          </p>
+          <p class="text-white/100 text-sm">Privacy Ploicy | Terms of use</p>
+          <ul class="flex items-center justify-center gap-3 mt-5">
+            <li class="hover:translate-y-1 duration-500">
+              <a href="#" target="_blank" class="h-8 w-8 bg-darkThree text-white/100 flex items-center justify-center rounded-full"><i class="ph-twitter-logo-fill"></i></a>
+            </li>
+            <li class="hover:translate-y-1 duration-500">
+              <a href="#" target="_blank" class="h-8 w-8 bg-darkThree text-white/100 flex items-center justify-center rounded-full"><i class="ph-facebook-logo-fill"></i></a>
+            </li>
+            <li class="hover:translate-y-1 duration-500">
+              <a href="#" target="_blank" class="h-8 w-8 bg-darkThree text-white/100 flex items-center justify-center rounded-full"><i class="ph-envelope-simple-open-fill"></i></a>
+            </li>
+            <li class="hover:translate-y-1 duration-500">
+              <a href="#" target="_blank" class="h-8 w-8 bg-darkThree text-white/100 flex items-center justify-center rounded-full"><i class="ph-instagram-logo-fill"></i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
 
     <script src="/index.59a40e7a.js" defer=""></script>
   </body>
